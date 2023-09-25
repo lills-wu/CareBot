@@ -27,4 +27,4 @@ This project uses the [MIT license](https://mit-license.org/).
 
 ## Disclaimer
 
-Not a replacement or substitute for professional therapy. 
+**Not a replacement or substitute for professional therapy.**
