@@ -1,0 +1,8 @@
+.config
+header.py
+*.csv
+*.tsv
+*__pycache__
+*.jsonl
+*.json
+openai_chatbot1_api_key.txt
