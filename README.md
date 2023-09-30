@@ -1,6 +1,6 @@
-# --name--: The Mental Health Chatbot
+# CareBot: The Mental Health Chatbot
 
---name-- was designed to make users feel better by walking them through how they're feeling, demonstrating sympathy, and creating solutions to the problem at hand.
+CareBot was designed to make users feel better by walking them through how they're feeling, demonstrating sympathy, and creating solutions to the problem at hand.
 
 ## Demo
 put gif here
