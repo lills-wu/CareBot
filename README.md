@@ -9,7 +9,7 @@ CareBot was designed to make users feel better by walking them through how they'
 
 To run the StreamLit app:
 - Clone this repository
-- Create a conda environment using `environment.yml`
+- Create a conda environment using `env.yml`
 - Activate the conda environment
 - Open a terminal window in the root directory, and then run this command:
 
