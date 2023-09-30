@@ -3,7 +3,7 @@
 CareBot was designed to make users feel better by walking them through how they're feeling, demonstrating sympathy, and creating solutions to the problem at hand.
 
 ## Demo
-put gif here
+![](https://github.com/lills-wu/chatbot1/blob/main/assets/carebot%20gif.gif)
 
 ## Installation Guide
 
