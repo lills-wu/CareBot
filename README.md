@@ -19,7 +19,7 @@ streamlit run streamlit_app.py
 
 ## Methodology
 
-This is a chatbot model that was finetuned off of ChatGPT-3.5-turbo. Prompt-completion pairs were in a question-response style to encourage the chatbot to persist in an interactive manner. The purpose of this finetuning was to create a chatbot that was engaging and aid the user in taking action to improve their situation. 
+This is a chatbot model that was finetuned off of ChatGPT-3.5-turbo. Prompt-completion pairs were in a question-response style to encourage the chatbot to persist in an interactive manner. The purpose of this finetuning was to create a chatbot that was engaging and aid the user in taking action to improve their mood with a cognitive behavioral style approach. 
 
 ## License
 
